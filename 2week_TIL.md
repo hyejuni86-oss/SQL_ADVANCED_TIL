@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=WWAFAm9op2U&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 
 # 1️⃣ 학습 내용 정리
 
-## 0. 1week SQL 및 기본개념 내용 정리
+## 0. 1week SQL 및 기본개념 내용 정리 (지난주차 개념학습한 내용입니다.)
 # 📚 01. 데이터베이스 기초
 
 ## 01-1. 데이터베이스 알아보기

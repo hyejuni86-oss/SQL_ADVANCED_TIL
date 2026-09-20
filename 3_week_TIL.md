@@ -223,7 +223,7 @@ SELECT '100' + 200;
 - 편리하지만 예상하지 못한 형 변환이 일어날 수 있으므로 주의해야 함.
 ---
 <!-- 과제 설명 예시처럼 직접 실습 후 사진 한 장 이상을 첨부해주세요. -->
-![alt text](image-1.png) 
+![alt text](image-1.png)
 
 > **확인문제: 다음 보기에서 데이터 형식의 변환에 사용되는 함수를 2개 고르세요.**
 
@@ -372,11 +372,11 @@ INNER JOIN employee B
 | `CREATE TABLE ~ SELECT` | `SELECT` 결과로 새로운 테이블을 생성함 |
 ---
 <!-- 과제 설명 예시처럼 직접 실습 후 인증 사진 4장 이상을 첨부해주세요. -->
-![alt text](image.png)
-![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
 
 > **확인문제: 다음 SQL은 회원으로 가입만 하고, 한 번도 구매한 적이 없는 회원의 목록을 조회하는 쿼리입니다. 빈칸에 들어갈 가장 적절한 구문을 고르세요..**
 
@@ -526,11 +526,11 @@ INSERT INTO orders VALUES
      프로시저를 생성하시오.
    - 생성 후 CALL로 실행 결과를 확인하시오.
 
-![alt text](image-5.png)
-![alt text](image-6.png)
 ![alt text](image-7.png)
 ![alt text](image-8.png)
-![alt text](image-9.png) 
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
 
 ### 🎉 수고하셨습니다.
 
